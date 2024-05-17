@@ -3,14 +3,14 @@
 Capstone Project
 Hello Folks,
 I am excited to finally announce the Capstone Project. This
-project is my opportunity to present my Business Analytics
+project presenting my Business Analytics
 skills. The project includes Financial Data of Western countries.
 I used my Business analytics skills and perform
 Statistical analysis using various Tools and Technologies i have
 learned.
-Presenting my project using Slides/PPT with reference to the below
+Presenting the project using Slides/PPT with reference to the below
 mentioned actionables and using of relevant tools
-and technologies to derive Insights from data and Make a
+and technologies to derive Insights from data andi i Made a
 Dashboard to show my analysis.
 
 Problem Statement:
