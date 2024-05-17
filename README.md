@@ -1,6 +1,5 @@
 # Capston_project
 
-Business Analyst Career Program
 Capstone Project
 Hello Folks,
 I am excited to finally announce the Capstone Project. This
