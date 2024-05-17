@@ -9,8 +9,8 @@ I used my Business analytics skills and perform
 Statistical analysis using various Tools and Technologies i have
 learned.
 Presenting the project using Slides/PPT with reference to the below
-mentioned actionables and using of relevant tools
-and technologies to derive Insights from data andi i Made a
+mentioned actionables and using relevant tools
+and technologies to derive Insights from data and i Made a
 Dashboard to show my analysis.
 
 Problem Statement:
